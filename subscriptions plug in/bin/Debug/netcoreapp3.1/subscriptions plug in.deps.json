@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "subscriptions plug in/1.0.0": {
+        "runtime": {
+          "subscriptions plug in.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "subscriptions plug in/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

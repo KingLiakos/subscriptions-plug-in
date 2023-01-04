@@ -1,0 +1,14 @@
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\obj\Debug\netcoreapp3.1\subscriptions plug in.csproj.AssemblyReference.cache
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\obj\Debug\netcoreapp3.1\subscriptions plug in.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\obj\Debug\netcoreapp3.1\subscriptions plug in.AssemblyInfoInputs.cache
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\obj\Debug\netcoreapp3.1\subscriptions plug in.AssemblyInfo.cs
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\obj\Debug\netcoreapp3.1\subscriptions plug in.csproj.CoreCompileInputs.cache
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\bin\Debug\netcoreapp3.1\subscriptions plug in.exe
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\bin\Debug\netcoreapp3.1\subscriptions plug in.deps.json
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\bin\Debug\netcoreapp3.1\subscriptions plug in.runtimeconfig.json
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\bin\Debug\netcoreapp3.1\subscriptions plug in.runtimeconfig.dev.json
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\bin\Debug\netcoreapp3.1\subscriptions plug in.dll
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\bin\Debug\netcoreapp3.1\subscriptions plug in.pdb
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\obj\Debug\netcoreapp3.1\subscriptions plug in.dll
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\obj\Debug\netcoreapp3.1\subscriptions plug in.pdb
+C:\Users\hlias\source\repos\subscriptions plug in\subscriptions plug in\obj\Debug\netcoreapp3.1\subscriptions plug in.genruntimeconfig.cache
